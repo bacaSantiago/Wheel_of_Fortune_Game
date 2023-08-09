@@ -1,0 +1,22 @@
+[
+    { "type": "cash", "text": "$500", "value": 500, "prize": false },
+    { "type": "cash", "text": "$300", "value": 300, "prize": false },
+    { "type": "cash", "text": "$800", "value": 800, "prize": false },
+    { "type": "cash", "text": "$450", "value": 450, "prize": false },
+    { "type": "cash", "text": "$700", "value": 700, "prize": false },
+    { "type": "cash", "text": "$350", "value": 350, "prize": false },
+    { "type": "bankrupt", "text": "Bankrupt", "prize": false },
+    { "type": "cash", "text": "$600", "value": 600, "prize": false },
+    { "type": "prize", "text": "A Trip to Hollywood", "value": 0, "prize": "Trip to Hollywood" },
+    { "type": "cash", "text": "$400", "value": 400, "prize": false },
+    { "type": "cash", "text": "$900", "value": 900, "prize": false },
+    { "type": "cash", "text": "$250", "value": 250, "prize": false },
+    { "type": "loseturn", "text": "Lose a Turn", "prize": false },
+    { "type": "cash", "text": "$550", "value": 550, "prize": false },
+    { "type": "cash", "text": "$200", "value": 200, "prize": false },
+    { "type": "cash", "text": "$1000", "value": 1000, "prize": false },
+    { "type": "cash", "text": "$150", "value": 150, "prize": false },
+    { "type": "prize", "text": "Movie Tickets", "value": 0, "prize": "Movie Tickets" },
+    { "type": "cash", "text": "$500", "value": 500, "prize": false },
+    { "type": "cash", "text": "$250", "value": 250, "prize": false }
+]
